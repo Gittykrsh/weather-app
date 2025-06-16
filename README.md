@@ -1,5 +1,3 @@
-# weather-app
-A weather app using API
 # 🌦 Weather App Using API - Tkinter GUI Project
 
 ## 📌 Problem Statement
@@ -51,6 +49,12 @@ Create a GUI-based Weather App that fetches weather details like temperature, hu
 | Error handling                | ✅     |
 | Window centered               | ✅     |
 | Multithreading for API call   | ✅     |
+
+---
+
+## 🖥️ GUI Preview
+
+![Preview](https://github.com/user-attachments/assets/58f9961b-7f94-4b56-99f8-cdb27a30b98b)
 
 ---
 
@@ -119,5 +123,10 @@ api = YOUR_API_KEY_HERE
 
 ---
 
-## 🙌 Thanks!
-Made with ❤️ using Python & Tkinter  
+## 📜 License
+
+This project is open-source and free to use for learning or demo purposes.
+
+---
+
+## Made with ❤️ by Shakyasimha Das.
