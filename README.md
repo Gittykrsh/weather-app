@@ -1,13 +1,6 @@
 # 🌦 Weather App Using API - Tkinter GUI Project
 
-## 📌 Problem Statement
-Users often need quick access to weather updates without browsing the internet or using cluttered apps.  
-**Goal:** Build a clean, fast, and interactive GUI app to fetch and display weather data by city name.
-
----
-
-## 🎯 Objective
-Create a GUI-based Weather App that fetches weather details like temperature, humidity, visibility, etc., using an API and displays it in an interactive interface.
+A clean and interactive desktop weather application built using Python and Tkinter. It allows users to quickly check real-time weather conditions for any city worldwide. The app fetches data using the OpenWeatherMap API and displays temperature, weather type, humidity, pressure, visibility, and local time. It also features dynamic weather icons, sunrise/sunset timings, and a polished UI layout with proper error handling. Designed as a learning project for API integration, GUI building, and multi-threading in Python.
 
 ---
 
